@@ -8,12 +8,10 @@
   MoveOutputContentToRoot="false"
   SkinComponents=""
   EnableResponsiveOutput="true"
-  MasterPage="/Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
   ResultsPerPage="10"
-  Skin="/Project/Skins/HTML5 - Top Nav.flskn"
   ConditionTagExpression="include[&quot;General.Audience A&quot;] exclude[&quot;General.Audience B&quot;] "
-  DefaultUrl="/Content/Home.htm"
-  MenuSkin="/Project/Skins/SideMenuFixed.flskn">
+  DefaultUrl="/Content/Home.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
